@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 ## D1 Linear Regression to Predict MPG
-![](multiple linear regression.png)
+![](multiple_linear_regression.png)
 
 Q1-
 According to the dataset results, the ground clearance and vehicle length have a significant impact on mpg.
@@ -17,9 +17,9 @@ predict mpg values correctly. Most likely, other, more influential variables and
 ## D2 The design specifications
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-lot summary :
+lot summary $Total summary :
 ![](SUMMARY1.PNG)
-Total summary :
+
 ![](SUMMARY2.PNG)
 
 Lot 1 and Lot 2 are both within design specifications, and both have the same calculated mean and median. However, Lot 3 is far more variable than the other manufacturing lots.  Lot 3 has a computed variance that exceeds the manufacturing specs to 170.3 PSI.  However, if all three lot combines, the overall calculated variance (62.3PSI) is within specifications.
